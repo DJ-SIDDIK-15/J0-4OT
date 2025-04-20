@@ -43,8 +43,9 @@
         "moment": "^2.29.1",
         "moment-timezone": "^0.5.41",
         "mqtt": "latest",
-        "nayan-apis-server": "^2.4.6",
-        "nayan-videos-downloader": "^0.1.5",
+        "nayan-apis-server": "^2.4.5",
+        "nayan-imgur-upload-apis": "^2.0.2",
+        "nayan-videos-downloader": "^0.0.9",
         "node-cmd": "^5.0.0",
         "node-cron": "^3.0.2",
         "node-fetch": "^3.3.1",
@@ -79,9 +80,6 @@
         "websocket-stream": "latest",
         "wikijs": "^6.4.1",
         "youtube-search-api": "^1.1.1",
-        "ytdl-core": "^4.11.4",
-        "yt-search": "^2.10.4",
-        "discord.js": "^12.5.3",
-        "discord-image-generation": "^1.4.13"
+        "ytdl-core": "^4.11.4"
     }
 }
